@@ -2,7 +2,7 @@
 
 - 💻 Self-taught Software Engineer with 2+ years experience and Makers Academy Alumnus.
 - 🔊 I am particularly interested in cryptocurrency and the Web3 ecosystem currently being built, I'm learning to build web apps that interact with the Ethereum blockchain. I enjoy exploring my interests in tech in my articles on [Medium](https://medium.com/@benjaminduffield1997).
-- 🕵️ I most enjoy problem solving for other people, building engineering projects in Agile teams, and I am eagre to make connections and collaborate with people in tech. Contact me on [Linkedin](https://www.linkedin.com/in/benjamin-duffield-harding-051011254/) if you have any questions!
+- 🕵️ I most enjoy problem solving for other people, and building engineering projects in Agile teams -> I am eagre to make connections and collaborate with people in tech. Contact me on [Linkedin](https://www.linkedin.com/in/benjamin-duffield-harding-051011254/) if you have any questions!
 
 ## Favourite Tools and Technologies 🤖
 
