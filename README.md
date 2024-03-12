@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 - 💻 Software Engineer and Makers Academy Alumnus.
-- ✍️ I am particularly interested in cryptocurrency and the Web3 ecosystem currently being built, I'm learning to build web apps that interact with the Ethereum blockchain. I enjoy exploring my interests in tech in my articles on [Medium](https://medium.com/@benjaminduffield1997).
-- 🕵️ I most enjoy problem solving for other people, and with other people -> building engineering projects in Agile teams -> I am eagre to make connections and collaborate with people in tech, so contact me on [LinkedIn](https://www.linkedin.com/in/benjamin-duffield-harding-051011254/)!
+- ✍️ Passionate about cryptocurrency and the Web3 ecosystem, currently deep diving into building web apps that interact with the Ethereum blockchain. I enjoy exploring my interests in tech in my articles on [Medium](https://medium.com/@benjaminduffield1997).
+- 🕵️ I thrive on problem-solving, especially when it comes to creating solutions for others. Experienced in Agile methodologies, I enjoy collaborating with diverse teams to tackle complex challenges. Check out my contributions to [Recipeasy](https://github.com/kawrou/RecipEasy-recipe-manager), a web app that takes a URL to a recipe and scrapes the recipe data from the page; a recipe page is populated in the app which can be modified, saved, and stored in your collection.
+- 🚀 Eager to connect and collaborate with like-minded individuals in the tech community. Contact me on [LinkedIn](https://www.linkedin.com/in/benjamin-duffield-harding-051011254/)!
 
 ## Favourite Tools and Technologies 🤖
 
