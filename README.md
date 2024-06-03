@@ -1,8 +1,8 @@
-## Hi there 👋
+<h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/benjamin-duffield-harding-051011254/">Ben Duffield-Harding</a> </h1>
 
 - 💻 Software Engineer and Makers Academy Alumnus.
 - ✍️ Passionate about cryptocurrency and the Web3 ecosystem, currently deep diving into building web apps that interact with the Ethereum blockchain. I enjoy exploring my interests in tech in my articles on [Medium](https://medium.com/@benjaminduffield1997).
-- 🕵️ I thrive on problem-solving, especially when it comes to creating solutions for others. Experienced in Agile methodologies, I enjoy collaborating with diverse teams to tackle complex challenges. Check out my contributions to [Recipeasy](https://github.com/kawrou/RecipEasy-recipe-manager), a web app that takes a URL to a recipe and scrapes the recipe data from the web page, this populates a recipe form in the app which can be modified, saved, and stored in your collection.
+- 🕵️ I thrive on problem-solving, especially when it comes to creating solutions for others. Experienced in Agile methodologies, I enjoy collaborating in teams to tackle complex challenges. Check out my contributions to [Recipeasy](https://github.com/kawrou/RecipEasy-recipe-manager), a web app that takes a URL to a recipe and scrapes the recipe data from the web page, this populates a recipe form in the app which can be modified, saved, and stored in your collection.
 - 🚀 Eager to connect and collaborate with like-minded individuals in the tech community. Contact me on [LinkedIn](https://www.linkedin.com/in/benjamin-duffield-harding-051011254/)!
 
 ## Favourite Tools and Technologies 🤖
@@ -101,3 +101,14 @@
   </tr>
 </table>
 <br><br>
+
+## Noteworthy Projects 🥇
+
+| Name                        | Description       | Tech/tools        |
+| ----------------------------| ----------------- | ----------------- |
+| [**RecipEasy**](https://github.com/kawrou/RecipEasy-recipe-manager) | Created a web app using Agile teams that takes a URL to a recipe and scrapes the recipe data from the  web page, this populates a recipe form in the app which can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
+| [**Streetwear Website**](https://streetware.netlify.app/) | Satirical website with a stylish design. Optimised for accessibility and SEO using Lighthouse, uses Netlify forms to collect customer data. | Figma, React Three Fibre, React, Netlify, Tailwind.|
+| [**Crypto Token Website**](https://frogbit.netlify.app/) | Website optimised for accessibility and SEO using Lighthouse. Wrote a smart contract to client specifications and deployed to the blockchain. | Figma, Solidity, React, Netlify, Tailwind.|
+| [**Acebook App**](https://github.com/Pacia30/acebook-team-water) | Created a Facebook clone in an Agile team. Features include: create an account, write posts with likes and comments, send & receive friend requests. | MongoDB, Express.js, React, Node.js.|
+
+<h2>See my <a href="https://github.com/ben-dh3/CV" >Github CV</a> </h2>
