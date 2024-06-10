@@ -107,7 +107,7 @@
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
 | [**RecipEasy**](https://github.com/kawrou/RecipEasy-recipe-manager) | Created a web app using Agile teams that takes a URL to a recipe and scrapes the recipe data from the  web page, this populates a recipe form in the app which can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
-| [**Streetwear Website**](https://streetware.netlify.app/) | Satirical website with a stylish design. Optimised for accessibility and SEO using Lighthouse, uses Netlify forms to collect customer data. | Figma, React Three Fibre, React, Netlify, Tailwind.|
+| [**Streetwear Website**](https://streetware.netlify.app/) | Streetwear fashion website with a stylish design. Optimised for accessibility and SEO using Lighthouse, uses Netlify forms to collect customer data. | Figma, React Three Fibre, React, Netlify, Tailwind.|
 | [**Crypto Token Website**](https://frogbit.netlify.app/) | Website optimised for accessibility and SEO using Lighthouse. Wrote a smart contract to client specifications and deployed to the blockchain. | Figma, Solidity, React, Netlify, Tailwind.|
 | [**Acebook App**](https://github.com/Pacia30/acebook-team-water) | Created a Facebook clone in an Agile team. Features include: create an account, write posts with likes and comments, send & receive friend requests. | MongoDB, Express.js, React, Node.js.|
 
