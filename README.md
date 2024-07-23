@@ -1,8 +1,8 @@
 <h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/benjamin-duffield-harding-051011254/">Ben Duffield-Harding</a> </h1>
 
 - 💻 Software Engineer and Makers Academy Alumnus.
-- ✍️ Passionate about cryptocurrency and the Web3 ecosystem, currently deep diving into building web apps that interact with the Ethereum blockchain. I enjoy exploring my tech interests in my articles on [Medium](https://medium.com/@benjaminduffield1997).
-- 🕵️ I thrive on problem-solving, especially when it comes to creating solutions for others. Experienced in Agile methodologies, I enjoy collaborating in teams to tackle complex challenges. Check out my contributions to [Recipeasy](https://github.com/kawrou/RecipEasy-recipe-manager), a web app that takes a URL to a recipe and scrapes the recipe data from the web page, this populates a recipe form in the app which can be modified, saved, and stored in your collection.
+- ✍️ Passionate about building stylish frontends and exploring modern UX trends, check out my [portfolio site](https://bendhportfolio.netlify.app/).
+- 🕵️ I thrive on problem-solving, especially when it comes to creating solutions for others. Experienced in Agile methodologies, I enjoy collaborating in teams to tackle complex challenges. Check out my contributions to [Recipeasy](https://bendhportfolio.netlify.app/recipeasy), a web app that takes a URL to a recipe and scrapes the recipe data from the web page, this populates a recipe form in the app which can be modified, saved, and stored in your collection.
 - 🚀 Eager to connect and collaborate with like-minded individuals in the tech community. Contact me on [LinkedIn](https://www.linkedin.com/in/benjamin-duffield-harding-051011254/)!
 
 ## Favourite Tools and Technologies 🤖
@@ -106,9 +106,9 @@
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**Portfolio Website**](https://bendhportfolio.netlify.app/) | Landing page model created in Blender and imported into Three.js to create motion graphics. Portfolio website designed in Figma and created in Typescript/React with Tailwind styling. | Figma, Three.js, React, Netlify, Tailwind, Typescript.|
 | [**Shopify ECommerce Art Store**](https://artbyben.netlify.app/) | Artist website created in Typescript/React, with Shopify buy functionality. Integrated CI/CD with Github Actions and used Netlify forms to collect customer queries. Motion graphics designed in Figma and created in After Effects. | Typescript, Vitest, Adobe After Effects, React, Tailwind, Figma.|
 | [**HomerBot AI Chatbot**](https://ai-homerbot.vercel.app/) | This is an AI chat bot using OpenAI's API; the AI model has been fine tuned with dialogue to respond like Homer Simpson. Website designed in Figma, with graphics made in Piskel, made using Next.js | Figma, React, Next.js, Tailwind, OpenAI API.|
-| [**RecipEasy**](https://github.com/kawrou/RecipEasy-recipe-manager) | Created a web app using Agile teams that takes a URL to a recipe and scrapes the recipe data from the  web page, this populates a recipe form in the app which can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
-| [**Streetwear Website**](https://streetware.netlify.app/) | Streetwear fashion website with a stylish design. Optimised for accessibility and SEO using Lighthouse, uses Netlify forms to collect customer data. | Figma, React Three Fibre, React, Netlify, Tailwind.|
+| [**RecipEasy**](https://bendhportfolio.netlify.app/recipeasy) | Created a web app using Agile teams that takes a URL to a recipe and scrapes the recipe data from the  web page, this populates a recipe form in the app which can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
 
 <h2>See my <a href="https://github.com/ben-dh3/CV" >Github CV</a> </h2>
