@@ -107,8 +107,8 @@
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
 | [**Three.js Portfolio Website**](https://bendhportfolio.netlify.app/) | Landing page model created in Blender and imported into Three.js to create motion graphics. Portfolio website designed in Figma and created in Typescript/React with Tailwind styling. | Figma, Three.js, React, Netlify, Tailwind, Typescript.|
+| [**Pokedex Android Mobile App**](https://bendhportfolio.netlify.app/pokedex) | The app has been created with React Native and is available to download for Android devices via the link. Graphics have been created in Illustrator and animated in After Effects. The search function uses the Poke API to populate the pokemon detail page. | React Native, Adobe Creative Suite, Expo, Figma, Tailwind.|
 | [**Shopify ECommerce Art Store**](https://artbyben.netlify.app/) | Artist website created in Typescript/React, with Shopify buy functionality. Integrated CI/CD with Github Actions and used Netlify forms to collect customer queries. Motion graphics designed in Figma and created in After Effects. | Typescript, Vitest, Adobe After Effects, React, Tailwind, Figma.|
-| [**HomerBot AI Chatbot**](https://ai-homerbot.vercel.app/) | This is an AI chat bot using OpenAI's API; the AI model has been fine tuned with dialogue to respond like Homer Simpson. Website designed in Figma, with graphics made in Piskel, made using Next.js | Figma, React, Next.js, Tailwind, OpenAI API.|
 | [**RecipEasy**](https://bendhportfolio.netlify.app/recipeasy) | Created to solve the inaccessibility issue of long form recipe blogs. A web app that scrapes the recipe data from a page, populating a recipe in the app that can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
 
 <h2>See my <a href="https://github.com/ben-dh3/CV" >Github CV</a> </h2>
