@@ -106,6 +106,7 @@
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**Chitter Social Media Website**](https://chitterapp.co.uk/) | Social media website built with Flask and PostgreSQL, with graphics made in Three.js and GLSL. Deployed on a virtual machine with Digital Ocean. | Flask, PostgreSQL, GLSL, Adobe Creative Suite, Figma, Three.js, Tailwind.|
 | [**Three.js Portfolio Website**](https://bendhportfolio.netlify.app/) | Landing page model created in Blender and imported into Three.js to create motion graphics. Portfolio website designed in Figma and created in Typescript/React with Tailwind styling. | Figma, Three.js, React, Netlify, Tailwind, Typescript.|
 | [**Pokedex Android Mobile App**](https://bendhportfolio.netlify.app/pokedex) | The app has been created with React Native and is available to download for Android devices via the link. Graphics have been created in Illustrator and animated in After Effects. The search function uses the Poke API to populate the pokemon detail page. | React Native, Adobe Creative Suite, Expo, Figma, Tailwind.|
 | [**BDH Art & Design Shopify ECommerce Store**](https://bdhartanddesign.netlify.app/) | Art & Design showcase utilising Shopify Integration, exploring graphic design principles - colour theory, layout design and typography. Utilised Netlify forms to collect customer queries. | GLSL, React Three Fibre, Adobe Creative Suite, React, Tailwind, Figma.|
