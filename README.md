@@ -2,7 +2,6 @@
 
 - 💻 Software Engineer and Makers Academy Alumnus.
 - ✍️ Passionate about emerging tech, and currently exploring the intersection of AI and crypto in AI agents with Eliza OS.
-- 🕵️ I thrive on problem-solving, especially when it comes to creating solutions for others. Experienced in Agile methodologies, I enjoy collaborating in teams to tackle complex challenges. Check out my contributions to [Recipeasy](https://bendhportfolio.netlify.app/recipeasy), a web app that takes a URL to a recipe and scrapes the recipe data from the web page, this populates a recipe form in the app which can be modified, saved, and stored in your collection.
 - 🚀 Eager to connect and collaborate with like-minded individuals in the tech community. Contact me on [LinkedIn](https://www.linkedin.com/in/benjamin-duffield-harding-051011254/)!
 
 ## Favourite Tools and Technologies 🤖
