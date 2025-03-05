@@ -1,10 +1,13 @@
-<h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/benjamin-duffield-harding-051011254/">Ben Duffield-Harding</a> </h1>
+<h2> Hi I'm <a href="https://www.linkedin.com/in/benjamin-duffield-harding-051011254/">Ben Duffield-Harding</a> </h2>
 
-- 💻 Software Engineer and Makers Academy Alumnus.
-- ✍️ Passionate about emerging tech, and currently exploring the intersection of AI and crypto in AI agents with Eliza OS.
-- 🚀 Eager to connect and collaborate with like-minded individuals in the tech community. Contact me on [LinkedIn](https://www.linkedin.com/in/benjamin-duffield-harding-051011254/)!
+#### Passionate about emerging tech, I am a self-taught software engineer building full-stack applications with:
+- React
+- Tailwind
+- Agile
+- TDD
+- AWS
 
-## Favourite Tools and Technologies 🤖
+#### Tools and Technologies:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -101,13 +104,14 @@
 </table>
 <br><br>
 
-## Noteworthy Projects 🥇
+#### Recent Projects
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**AWS AI Portfolio App**](https://master.d5ohu7yc8el7a.amplifyapp.com/) | Full-stack web application built with AWS. Uses Claude LLM to analyse news sentiment and crypto portfolio data, and generates suggestions for investment allocation. | AWS CDK, Lambda, API Gateway, DynamoDB, Typescript, React.|
 | [**Three.js Portfolio Website**](https://bendhportfolio.netlify.app/) | Landing page model created in Blender and imported into Three.js to create motion graphics. Portfolio website designed in Figma and created in Typescript/React with Tailwind styling. | Figma, Three.js, React, Netlify, Tailwind, Typescript.|
 | [**ElizaOS Zapper Plugin & AI Agent Development**](https://bendhportfolio.netlify.app/elizaos) | ElizaOS is a library for creating AI agents that extend the abilities of an AI model to be able to perform specific tasks. I have contributed by creating a plugin for the Zapper API which allows users to view a formatted portfolio of given addresses or addresses attached to a Farcaster username. | AI Agent development, Discord bot development, Typescript.|
 | [**Chitter Social Media Website**](https://chitterapp.co.uk/) | Social media website built with Flask and PostgreSQL, with graphics made in Three.js and GLSL. Deployed on a virtual machine with Digital Ocean. | Flask, PostgreSQL, GLSL, Adobe Creative Suite, Figma, Three.js, Tailwind.|
-| [**RecipEasy**](https://bendhportfolio.netlify.app/recipeasy) | Created to solve the inaccessibility issue of long form recipe blogs. A web app that scrapes the recipe data from a page, populating a recipe in the app that can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
+| [**RecipEasy**](https://recipeasy-frontend.onrender.com/) | Created to solve the inaccessibility issue of long form recipe blogs. A web app that scrapes the recipe data from a page, populating a recipe in the app that can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
 
 <h2>See my <a href="https://github.com/ben-dh3/CV" >Github CV</a> </h2>
