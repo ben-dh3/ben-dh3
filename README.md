@@ -2,7 +2,6 @@
 
 #### Passionate about emerging tech, I am a self-taught software engineer building full-stack applications with:
 - React
-- Tailwind
 - Agile
 - TDD
 - AWS
