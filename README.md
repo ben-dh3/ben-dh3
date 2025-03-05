@@ -6,6 +6,7 @@
 - Agile
 - TDD
 - AWS
+- Typescript
 
 #### Tools and Technologies:
 
