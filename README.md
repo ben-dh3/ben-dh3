@@ -108,6 +108,7 @@
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**Balanced News PWA**](https://balancednews.netlify.app/) | Full-stack PWA built with AWS. Aims to provide a balanced political perspective on top headlines. Uses Anthropic API to generate summaries of related articles across the political spectrum. | AWS CDK, Lambda, API Gateway, DynamoDB, Typescript, React, VitePWA.|
 | [**AWS AI Portfolio App**](https://master.d5ohu7yc8el7a.amplifyapp.com/) | Full-stack web application built with AWS. Uses Claude LLM to analyse news sentiment and crypto portfolio data, and generates suggestions for investment allocation. | AWS CDK, Lambda, API Gateway, DynamoDB, Typescript, React.|
 | [**Three.js Portfolio Website**](https://bendhportfolio.netlify.app/) | Landing page model created in Blender and imported into Three.js to create motion graphics. Portfolio website designed in Figma and created in Typescript/React with Tailwind styling. | Figma, Three.js, React, Netlify, Tailwind, Typescript.|
 | [**ElizaOS Zapper Plugin & AI Agent Development**](https://bendhportfolio.netlify.app/elizaos) | ElizaOS is a library for creating AI agents that extend the abilities of an AI model to be able to perform specific tasks. I have contributed by creating a plugin for the Zapper API which allows users to view a formatted portfolio of given addresses or addresses attached to a Farcaster username. | AI Agent development, Discord bot development, Typescript.|
