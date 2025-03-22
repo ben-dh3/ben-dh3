@@ -1,6 +1,7 @@
 <h2> Hi I'm <a href="https://www.linkedin.com/in/benjamin-duffield-harding-051011254/">Ben Duffield-Harding</a> </h2>
 
 #### Passionate about emerging tech, I am a self-taught software engineer building full-stack applications with:
+- NextJS
 - React
 - Agile
 - TDD
